@@ -3,29 +3,37 @@
 
 # `bhoomi@github:~$`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Building+Cool+UI;Building+Backend+%26+Databases;Designing+in+Figma;Building+in+Next.js;Automating+Everything;Shipping+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI+Systems;Building+Cool+UI;Building+Backend+%26+Databases;Designing+in+Figma;Building+in+Next.js;Automating+Everything;Shipping+Products" />
+
+```console
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ BhoomiOS v6.2.0                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Booting engineer...                                            [ OK ]       │
+│ Loading caffeine...                                             [ OK ]       │
+│ Mounting repositories...                                        [ OK ]       │
+│ Starting creative-engine.service...                             [ OK ]       │
+│ Connecting to github...                                         [ OK ]       │
+│ Ready.                                                                      │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+*Building AI systems. Shipping products. Automating repetitive work.*
 
 </div>
 
-```console
-┌──────────────────────────────────────────────────────────────┐
-│ BhoomiOS v4.0.1                                              │
-├──────────────────────────────────────────────────────────────┤
-│ ✓ Loading engineer                                           │
-│ ✓ Loading caffeine                                           │
-│ ✓ Connecting to GitHub                                       │
-│ ✓ Compiling ideas                                            │
-│ ✓ Boot complete                                              │
-└──────────────────────────────────────────────────────────────┘
+---
 
-bhoomi@github:~$
-```
+## `bhoomi@github:~$ ls`
 
-```bash
-$ ls
-
-about/      timeline/     build_queue/
-stack/      principles/   status/
+```text
+about/
+timeline/
+projects/
+build_queue/
+stack/
+principles/
+status/
 contact/
 ```
 
@@ -35,15 +43,16 @@ contact/
 
 ```yaml
 name: Bhoomi Gundecha
+role: AI Engineer | Backend Developer
 education:
-  - B.Tech Computer Science
-  - IIIT Pune
-  - Honors in Artificial Intelligence
+  institute: IIIT Pune
+  degree: B.Tech Computer Science
+  honors: Artificial Intelligence
 
 favorite_language: JavaScript
 
-mission:
-  Build products people actually use.
+mission: >
+  Build products that people actually use.
 ```
 
 ---
@@ -53,10 +62,11 @@ mission:
 ```text
 I don't enjoy collecting projects.
 
-I enjoy solving one real problem really well.
+I enjoy solving one meaningful problem well.
 
-If an idea survives weeks of thinking,
-it deserves a weekend of building.
+I spend weeks thinking.
+
+Then spend a weekend building.
 
 Success Metrics
 
@@ -72,10 +82,11 @@ Shipping > Planning
 ```text
 I enjoy building systems people actually use.
 
-I love spending days obsessing over ideas,
-architecture and edge cases...
+I love long ideation cycles,
+thinking through architecture,
+edge cases and user experience...
 
-...and then building the whole thing
+...and then building the entire thing
 in a short burst of adrenaline.
 
 Current Interests
@@ -86,144 +97,165 @@ Current Interests
 • Infrastructure
 • Products over Projects
 
-Workflow
+Typical workflow
 
-Figma → Next.js → Backend → Database → AI
+Figma
+   ↓
+Next.js
+   ↓
+Backend APIs
+   ↓
+Databases
+   ↓
+LLMs
 ```
 
 ---
 
-## `bhoomi@github:~$ timeline`
+## `bhoomi@github:~$ git log --oneline`
 
 ```text
-2023 ─ Started Building
+2026  Landed first AI Internship
+      ↳ Currently focused on AI Systems
 
-2024 ─ Smart India Hackathon Winner
+2025  Built production AI applications
 
-2025 ─ Built Production AI Systems
+2024  Smart India Hackathon Winner
 
-2026 ─ Landed my first AI Internship
-      └── Currently focused on AI Systems
+2023  Started building software
 ```
 
 ---
 
-## `bhoomi@github:~$ build_queue`
+## `bhoomi@github:~$ tree`
 
 ```text
-██████████  Jugaad
-AI-powered Negotiation Platform
-
-████████░░  FlowPilot
-Enterprise Workflow Copilot
+.
+├── Jugaad/
+│   ├── AI-powered negotiation
+│   ├── LLMs
+│   └── Product
+│
+├── FlowPilot/
+│   ├── Enterprise Workflow Copilot
+│   ├── Multi-agent orchestration
+│   └── Automation
+│
+└── next_idea/
+    └── loading...
 ```
 
 ---
 
-## `bhoomi@github:~$ stack`
+## `bhoomi@github:~$ ps aux`
+
+```text
+PID     PROCESS                    STATUS
+
+0001    Building AI Systems        RUNNING
+0002    Jugaad                     RUNNING
+0003    FlowPilot                  RUNNING
+0004    LeetCode                   RUNNING
+0005    Coffee                     ALWAYS
+```
+
+---
+
+## `bhoomi@github:~$ npm ls`
 
 ```text
 Languages
-─────────
-JavaScript
-Python
-C++
-Java
+├── JavaScript
+├── Python
+├── C++
+└── Java
 
 Frontend
-─────────
-React
-Next.js
-Tailwind CSS
+├── React
+├── Next.js
+└── Tailwind CSS
 
 Backend
-────────
-Node.js
-Express
-FastAPI
+├── Node.js
+├── Express
+└── FastAPI
 
 AI
-──
-LangChain
-Groq SDK
-Gemini SDK
-OpenAI SDK
+├── LangChain
+├── OpenAI SDK
+├── Gemini SDK
+└── Groq SDK
 
 Cloud
-─────
-Docker
-AWS
-GCP
+├── Docker
+├── AWS
+└── GCP
 
 Database
-────────
-MongoDB
-PostgreSQL
-Redis
+├── PostgreSQL
+├── MongoDB
+└── Redis
 
 Tools
-─────
-Git
-Linux
-GitHub Actions
-Figma
-VS Code
+├── Git
+├── Linux
+├── GitHub Actions
+├── Figma
+└── VS Code
 ```
 
 ---
 
-## `bhoomi@github:~$ principles`
+## `bhoomi@github:~$ cat principles.md`
 
 ```text
 • Build products.
 
 • Automate repetitive work.
 
-• Ship before perfect.
-
 • Simplicity scales.
 
+• Ship before perfect.
+
 • If users don't love it,
-  rewrite it.
+  rebuild it.
 ```
 
 ---
 
-## `bhoomi@github:~$ fun`
+## `bhoomi@github:~$ cat fun_facts.txt`
 
 ```bash
-$ cat fun_facts.txt
-
 → Solves LeetCode more often than she should.
 
-→ When creativity strikes,
+→ When the creative spark hits,
   development mode begins.
 
 → Thinks documentation is criminally underrated.
 
-→ Still slightly scared AI might replace developers...
+→ Still wonders if AI will replace developers...
 
-→ ...so keeps building AI anyway.
+→ ...keeps building AI anyway.
 ```
 
 ---
 
-## `bhoomi@github:~$ status`
+## `bhoomi@github:~$ uptime`
 
 ```text
-Building
+Currently Building
 
-██████████ FlowPilot
+██████████  FlowPilot
 
-████████░░ Jugaad
+████████░░  Jugaad
 
 Designing
 
-██████████ Figma
+██████████  Figma
 
 Developing
 
-██████████ Next.js
+██████████  Next.js
 
 Listening
 
@@ -236,32 +268,39 @@ Fuel
 
 ---
 
-## `bhoomi@github:~$ github_stats`
+## `bhoomi@github:~$ github`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhoomigundecha&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomigundecha&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomigundecha&theme=github-dark"/>
+<br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
 
 </div>
 
 ---
 
-## `bhoomi@github:~$ contact`
+## `bhoomi@github:~$ ping me`
 
-| Platform | Link |
-|----------|------|
-| GitHub | github.com/bhoomigundecha |
-| LinkedIn | linkedin.com/in/bhoomi-gundecha-b6b65228a/ |
+| Service | Destination |
+|---------|-------------|
+| GitHub | https://github.com/YOUR_USERNAME |
+| LinkedIn | https://linkedin.com/in/YOUR_LINK |
 | Portfolio | Coming Soon |
-| Email | bhoomigundecha@gmail.com |
+| Email | your@email.com |
+
+---
 
 ```console
-bhoomi@github:~$ logout
+bhoomi@github:~$ exit
 
 Saving session...
+Connection closed.
+
 See you after the next commit.
 ```
+
