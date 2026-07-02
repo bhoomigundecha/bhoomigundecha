@@ -4,6 +4,15 @@
 
 <sub>Computer Science @ IIIT Pune · Building systems that reason, not just respond</sub>
 
+<br/><br/>
+
+![Focus](https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-6C5CE7?style=for-the-badge)
+![Specialization](https://img.shields.io/badge/SPECIALIZATION-BACKEND%20SYSTEMS-FF6584?style=for-the-badge)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=bhoomigundecha&label=PROFILE%20VIEWS&color=6c5ce7&style=flat-square)
+
 </div>
 
 <br/>
@@ -55,81 +64,50 @@ git commit -m "always shipping"
 
 ## tech stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
 **Languages**
-```
-C++
-Python
-JavaScript
-TypeScript
-SQL
-```
 
-</td>
-<td valign="top" width="33%">
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frameworks**
-```
-React
-Next.js
-FastAPI
-Node.js
-Express
-```
 
-</td>
-<td valign="top" width="33%">
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 **AI / ML**
-```
-LangChain
-RAG
-Pinecone
-Qdrant
-HuggingFace
-OpenAI · Gemini · Groq
-```
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 
 **Cloud & DevOps**
-```
-AWS
-GCP
-Docker
-GitHub Actions
-```
 
-</td>
-<td valign="top">
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Databases**
-```
-PostgreSQL
-MongoDB
-MySQL
-```
 
-</td>
-<td valign="top">
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Tooling**
-```
-Git
-Linux
-Postman
-VS Code
-```
 
-</td>
-</tr>
-</table>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 <br/>
 
@@ -248,16 +226,20 @@ Not everything ships — only what's production-quality does.
 
 <br/>
 
-## GitHub stats
+## github stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhoomigundecha&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomigundecha&layout=compact&hide_border=true&langs_count=6" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhoomigundecha&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomigundecha&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomigundecha&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomigundecha&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomigundecha&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -305,6 +287,5 @@ next_read          : a systems design paper
 <br/>
 
 <div align="center">
-<sub>Built with intent, not templates.</sub>
+<sub>The best system is the one you can explain in a sentence and trust in production.</sub>
 </div>
-</content>
