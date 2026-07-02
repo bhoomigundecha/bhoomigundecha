@@ -240,11 +240,11 @@ Fuel
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhoomigundecha&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomigundecha&layout=compact&theme=github_dark&hide_border=true"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomigundecha&theme=github-dark"/>
 
 </div>
 
@@ -254,10 +254,10 @@ Fuel
 
 | Platform | Link |
 |----------|------|
-| GitHub | github.com/YOUR_USERNAME |
-| LinkedIn | linkedin.com/in/YOUR_LINK |
+| GitHub | github.com/bhoomigundecha |
+| LinkedIn | linkedin.com/in/bhoomi-gundecha-b6b65228a/ |
 | Portfolio | Coming Soon |
-| Email | your@email.com |
+| Email | bhoomigundecha@gmail.com |
 
 ```console
 bhoomi@github:~$ logout
