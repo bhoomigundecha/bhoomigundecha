@@ -1,291 +1,267 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=BHOOMI%20GUNDECHA&fontAlign=50&fontAlignY=40&fontSize=42&fontColor=ffffff&desc=AI%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Systems&descAlign=50&descAlignY=60&descSize=16" alt="banner"/>
+# `bhoomi@github:~$`
 
-<sub>Computer Science @ IIIT Pune · Building systems that reason, not just respond</sub>
-
-<br/><br/>
-
-![Focus](https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-6C5CE7?style=for-the-badge)
-![Specialization](https://img.shields.io/badge/SPECIALIZATION-BACKEND%20SYSTEMS-FF6584?style=for-the-badge)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=bhoomigundecha&label=PROFILE%20VIEWS&color=6c5ce7&style=flat-square)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Building+Cool+UI;Building+Backend+%26+Databases;Designing+in+Figma;Building+in+Next.js;Automating+Everything;Shipping+Products" />
 
 </div>
 
-<br/>
+```console
+┌──────────────────────────────────────────────────────────────┐
+│ BhoomiOS v4.0.1                                              │
+├──────────────────────────────────────────────────────────────┤
+│ ✓ Loading engineer                                           │
+│ ✓ Loading caffeine                                           │
+│ ✓ Connecting to GitHub                                       │
+│ ✓ Compiling ideas                                            │
+│ ✓ Boot complete                                              │
+└──────────────────────────────────────────────────────────────┘
 
-## `/now`
-
+bhoomi@github:~$
 ```
-Currently designing retrieval pipelines and backend systems that
-hold up under real traffic — not demo traffic.
-
-Focused on: Agentic workflows · RAG at scale · Document intelligence
-```
-
-<br/>
-
-## engineering philosophy
-
-> I don't ship tutorials. I ship systems that survive contact with real data,
-> real users, and real edge cases.
-
-Three things I optimize for, in order: **correctness**, **clarity**, **speed of iteration**.
-If a project can't explain its own architecture in one sentence, it isn't done yet.
-
-<br/>
-
-## terminal
 
 ```bash
-$ whoami
-Bhoomi Gundecha — CS undergrad, IIIT Pune
+$ ls
 
-$ current_focus
-Agentic AI systems · RAG pipelines · backend infrastructure
-
-$ building
-Enterprise-grade tools that automate document-heavy workflows
-
-$ coffee
-true
-
-$ bugs
-feature
-
-$ status
-git commit -m "always shipping"
+about/      timeline/     build_queue/
+stack/      principles/   status/
+contact/
 ```
 
-<br/>
+---
 
-## tech stack
+## `bhoomi@github:~$ whoami`
 
-**Languages**
+```yaml
+name: Bhoomi Gundecha
+education:
+  - B.Tech Computer Science
+  - IIIT Pune
+  - Honors in Artificial Intelligence
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+favorite_language: JavaScript
 
-**Frameworks**
+mission:
+  Build products people actually use.
+```
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+---
 
-**AI / ML**
+## `bhoomi@github:~$ motivation`
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+```text
+I don't enjoy collecting projects.
 
-**Cloud & DevOps**
+I enjoy solving one real problem really well.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+If an idea survives weeks of thinking,
+it deserves a weekend of building.
 
-**Databases**
+Success Metrics
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+Users    > Stars
+Impact   > Hype
+Shipping > Planning
+```
 
-**Tooling**
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+## `bhoomi@github:~$ about`
 
-<br/>
+```text
+I enjoy building systems people actually use.
 
-## featured projects
+I love spending days obsessing over ideas,
+architecture and edge cases...
 
-<table>
-<tr>
-<td width="50%" valign="top">
+...and then building the whole thing
+in a short burst of adrenaline.
 
-### Enterprise Workflow Copilot
+Current Interests
 
-**Problem**
-Manual, repetitive enterprise workflows slow teams down and introduce human error.
+• AI Systems
+• Agentic Workflows
+• Backend Engineering
+• Infrastructure
+• Products over Projects
 
-**Tech**
-`FastAPI` `LangChain` `PostgreSQL` `React`
+Workflow
 
-**Highlights**
-- Automates multi-step business workflows end to end
-- Modular agent design for task-specific reasoning
-- Built for reliability under real operational load
+Figma → Next.js → Backend → Database → AI
+```
 
-[`→ repository`](#)
+---
 
-</td>
-<td width="50%" valign="top">
+## `bhoomi@github:~$ timeline`
 
-### Insurance Document AI
+```text
+2023 ─ Started Building
 
-**Problem**
-Insurance claims involve dense, unstructured documents that are slow to process manually.
+2024 ─ Smart India Hackathon Winner
 
-**Tech**
-`Python` `RAG` `Qdrant` `FastAPI`
+2025 ─ Built Production AI Systems
 
-**Highlights**
-- Extracts structured data from unstructured policy documents
-- Retrieval pipeline tuned for domain-specific accuracy
-- Reduces manual review time significantly
+2026 ─ Landed my first AI Internship
+      └── Currently focused on AI Systems
+```
 
-[`→ repository`](#)
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## `bhoomi@github:~$ build_queue`
 
-### Store Intelligence Analytics
+```text
+██████████  Jugaad
+AI-powered Negotiation Platform
 
-**Problem**
-Retail decision-making often lacks real-time, data-backed insight.
+████████░░  FlowPilot
+Enterprise Workflow Copilot
+```
 
-**Tech**
-`Python` `SQL` `React` `Node.js`
+---
 
-**Highlights**
-- Aggregates and visualizes store-level performance data
-- Surfaces actionable trends from raw transactional data
-- Designed for dashboards non-technical teams can read
+## `bhoomi@github:~$ stack`
 
-[`→ repository`](#)
+```text
+Languages
+─────────
+JavaScript
+Python
+C++
+Java
 
-</td>
-<td width="50%" valign="top">
+Frontend
+─────────
+React
+Next.js
+Tailwind CSS
 
-### EasyAudit
+Backend
+────────
+Node.js
+Express
+FastAPI
 
-**Problem**
-Manual auditing processes are slow, inconsistent, and hard to scale.
+AI
+──
+LangChain
+Groq SDK
+Gemini SDK
+OpenAI SDK
 
-**Tech**
-`Python` `FastAPI` `PostgreSQL`
+Cloud
+─────
+Docker
+AWS
+GCP
 
-**Highlights**
-- Streamlines audit workflows with automated checks
-- Consistent, repeatable evaluation logic
-- Built for accuracy over shortcuts
+Database
+────────
+MongoDB
+PostgreSQL
+Redis
 
-[`→ repository`](#)
+Tools
+─────
+Git
+Linux
+GitHub Actions
+Figma
+VS Code
+```
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### Walmart360
+## `bhoomi@github:~$ principles`
 
-**Problem**
-Fragmented retail data makes it hard to see the full customer and operations picture.
+```text
+• Build products.
 
-**Tech**
-`React` `Node.js` `MongoDB` `Express`
+• Automate repetitive work.
 
-**Highlights**
-- Unified view across retail data sources
-- Built for scale and clarity, not just a demo
-- Clean, production-oriented architecture
+• Ship before perfect.
 
-[`→ repository`](#)
+• Simplicity scales.
 
-</td>
-<td width="50%" valign="top">
+• If users don't love it,
+  rewrite it.
+```
 
-<br/>
+---
+
+## `bhoomi@github:~$ fun`
+
+```bash
+$ cat fun_facts.txt
+
+→ Solves LeetCode more often than she should.
+
+→ When creativity strikes,
+  development mode begins.
+
+→ Thinks documentation is criminally underrated.
+
+→ Still slightly scared AI might replace developers...
+
+→ ...so keeps building AI anyway.
+```
+
+---
+
+## `bhoomi@github:~$ status`
+
+```text
+Building
+
+██████████ FlowPilot
+
+████████░░ Jugaad
+
+Designing
+
+██████████ Figma
+
+Developing
+
+██████████ Next.js
+
+Listening
+
+🎧 Seedhe Maut
+
+Fuel
+
+☕ Coffee
+```
+
+---
+
+## `bhoomi@github:~$ github_stats`
 
 <div align="center">
 
-**More in progress.**
-Not everything ships — only what's production-quality does.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
 
 </div>
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+## `bhoomi@github:~$ contact`
 
-## github stats
+| Platform | Link |
+|----------|------|
+| GitHub | github.com/YOUR_USERNAME |
+| LinkedIn | linkedin.com/in/YOUR_LINK |
+| Portfolio | Coming Soon |
+| Email | your@email.com |
 
-<div align="center">
+```console
+bhoomi@github:~$ logout
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhoomigundecha&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomigundecha&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomigundecha&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomigundecha&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
-
-</div>
-
-<br/>
-
-## fun facts
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
+Saving session...
+See you after the next commit.
 ```
-favorite_command   : git rebase -i
-survives_on        : coffee
-touching_grass.exe : failed
-current_obsession  : context windows
-```
-
-</td>
-<td width="50%" valign="top">
-
-```
-weekend_status     : compiling
-debug_strategy     : print("here 1")
-last_words         : "it works on my machine"
-next_read          : a systems design paper
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## contact
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-@bhoomigundecha-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bhoomigundecha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhoomi%20Gundecha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhoomigundecha)
-[![Email](https://img.shields.io/badge/Email-bhoomigundecha@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bhoomigundecha@gmail.com)
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub>The best system is the one you can explain in a sentence and trust in production.</sub>
-</div>
