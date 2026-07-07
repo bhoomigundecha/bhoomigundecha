@@ -307,15 +307,14 @@ bhoomi@github:~$ git status
 
 <div align="center">
 
-Replace `YOUR_USERNAME` below.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhoomigundecha&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomigundecha&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomigundecha&theme=github-dark"/>
 
 </div>
 
@@ -327,10 +326,9 @@ bhoomi@github:~$ ping me
 
 | Platform | Link |
 |-----------|------|
-| GitHub | https://github.com/YOUR_USERNAME |
-| LinkedIn | https://linkedin.com/in/YOUR_LINK |
-| Portfolio | Coming Soon |
-| Email | your@email.com |
+| GitHub | https://github.com/bhoomigundecha |
+| LinkedIn | https://www.linkedin.com/in/bhoomi-gundecha-b6b65228a/ |
+| Email | bhoomigundecha@gmail.com |
 
 ---
 
